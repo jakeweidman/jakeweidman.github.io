@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Basic Hello World web app with a Node static server.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
